@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Navya. Currently pursuing a Masters in Computer Engineering at NYU 👋
 
 <!--
 **Navya0203/Navya0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
