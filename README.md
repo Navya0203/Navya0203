@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Navya, and I am currently studying Computer Engineering and many other things at NYU to eventually become a Data Scientist/MLE.
 <!--
 **Navya0203/Navya0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
