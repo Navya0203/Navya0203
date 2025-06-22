@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Navya, and I am currently studying Computer Engineering at NYU to become a Data Scientist/MLE eventually.
+My name is Navya, and I am a recent master's graduate from NYU and currently working as a data scientist.
 <!--
 **Navya0203/Navya0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
